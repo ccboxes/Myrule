@@ -1,2 +1,2 @@
 # Myrule
-clashrule
+My ClashRule
