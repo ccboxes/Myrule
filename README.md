@@ -1,2 +1,2 @@
 # Myrule
-My ClashRule for mutidevice
+My clashrule for mutidevice
