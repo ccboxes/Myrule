@@ -9,8 +9,8 @@ proxy-groups:
   - name: one
     type: select
     proxies:
-      - TLS
       - DIRECT
+      - TLS
   - name: Ⓜ️ 
     type: select
     proxies:
