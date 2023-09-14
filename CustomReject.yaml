@@ -1,0 +1,20 @@
+payload:
+  - DOMAIN-SUFFIX,greenmangaming.com
+  - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN,api.installer.xiaomi.com
+  - DOMAIN,tracking.miui.com
+  - DOMAIN,data.mistat.xiaomi.com
+  - DOMAIN,diagnosis.ad.xiaomi.com
+  - DOMAIN,log.ad.xiaomi.com
+  - DOMAIN,m.track.ad.xiaomi.com
+  - DOMAIN,sdkconfig.ad.xiaomi.com
+  - DOMAIN,flash.sec.miui.com
+  - DOMAIN,miui-fxcse.avlyun.com
+  - DOMAIN,sdkconf.avlyun.com
+  - DOMAIN,miav-cse.avlyun.com
+  - DOMAIN,update.avlyun.sec.miui.com
+  - DOMAIN,ixav-cse.avlyun.com
+  - DOMAIN,logupdate.avlyun.sec.miui.com
+  - DOMAIN,log.avlyun.sec.intl.miui.com
+  - DOMAIN,tmfsdk.m.qq.com
+  - DOMAIN,a0.app.xiaomi.com
