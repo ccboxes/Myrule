@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,greenmangaming.com
-  - DOMAIN-SUFFIX,doh.pub
   - DOMAIN,api.installer.xiaomi.com
   - DOMAIN,tracking.miui.com
   - DOMAIN,data.mistat.xiaomi.com
